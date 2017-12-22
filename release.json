@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Official release",
+    "date": "2017-12-24",
+    "description": "release for fun, you should make sure xxxx, and xxxx are checked. refer to http://buildweb.com for release note",
+    "BIOS": {
+      "version": "1.2.3.4",
+      "download": "http://www.helloworld.com"
+    },
+    "BMC": {
+      "version": "12.34.5",
+      "download": "http://www.helloworld.com"
+    },
+    "NIC": {
+      "version": "12.34.5",
+      "download": "http://www.helloworld.com"
+    }
+  },
+  {
+    "name": "daily build release",
+    "date": "2017-12-25",
+    "description": "daily build, use with causion. refer to http://buildweb.com for release note",
+    "BIOS": {
+      "version": "1.2.3.4",
+      "download": "http://www.helloworld.com"
+    },
+    "BMC": {
+      "version": "12.34.5",
+      "download": "http://www.helloworld.com"
+    },
+    "NIC": {
+      "version": "12.34.5",
+      "download": "http://www.helloworld.com"
+    }
+  }
+]
