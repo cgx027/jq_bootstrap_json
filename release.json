@@ -17,7 +17,7 @@
     }
   },
   {
-    "name": "daily build release",
+    "name": "Daily build release",
     "date": "2017-12-25",
     "description": "daily build, use with causion. refer to http://buildweb.com for release note",
     "BIOS": {
